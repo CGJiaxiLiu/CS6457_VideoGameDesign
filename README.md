@@ -9,3 +9,7 @@ We worked in team of five to develop this game 'Escape From the Sinking Ship'.
  - Scenic design (concept design, scene modeling, texturing, lighting, rendering)
  - UI & tutorial system (menu, instruction and message UI)
  - Partial character animation
+
+ <br />
+ 
+ ![demo](/FireStarter/scene.png)
