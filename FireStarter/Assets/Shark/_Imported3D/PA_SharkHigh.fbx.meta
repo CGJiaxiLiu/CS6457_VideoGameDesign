@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: c7bf333eaa852cb45aaee03f2c6fd5c5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: joint7
+    100002: //RootNode
+    100004: sEscapeSharkBodyJnt
+    100006: sEscapeSharkHeadJnt
+    100008: sEscapeSharkHigh
+    100010: sEscapeSharkJawJnt
+    100012: sEscapeSharkJawTipJnt
+    100014: sEscapeSharkLeftFinJnt
+    100016: sEscapeSharkLeftFinTipJnt
+    100018: sEscapeSharkNoseJnt
+    100020: sEscapeSharkNoseTipJnt
+    100022: sEscapeSharkRightFinJnt
+    100024: sEscapeSharkRightFinTipJnt
+    100026: sEscapeSharkRootJnt
+    100028: sEscapeSharkShouldersJnt
+    100030: sEscapeSharkTail1Jnt
+    100032: sEscapeSharkTail2Jnt
+    100034: sEscapeSharkTail3Jnt
+    100036: sEscapeSharkTail4Jnt
+    100038: PA_Shark
+    100040: PA_SharkBodyJnt
+    100042: PA_SharkHeadJnt
+    100044: PA_SharkJawJnt
+    100046: PA_SharkJawTipJnt
+    100048: PA_SharkLeftFinJnt
+    100050: PA_SharkLeftFinTipJnt
+    100052: PA_SharkNoseJnt
+    100054: PA_SharkNoseTipJnt
+    100056: PA_SharkRightFinJnt
+    100058: PA_SharkRightFinTipJnt
+    100060: PA_SharkRootJnt
+    100062: PA_SharkShouldersJnt
+    100064: PA_SharkTail1Jnt
+    100066: PA_SharkTail2Jnt
+    100068: PA_SharkTail3Jnt
+    100070: PA_SharkTail4Jnt
+    400000: joint7
+    400002: //RootNode
+    400004: sEscapeSharkBodyJnt
+    400006: sEscapeSharkHeadJnt
+    400008: sEscapeSharkHigh
+    400010: sEscapeSharkJawJnt
+    400012: sEscapeSharkJawTipJnt
+    400014: sEscapeSharkLeftFinJnt
+    400016: sEscapeSharkLeftFinTipJnt
+    400018: sEscapeSharkNoseJnt
+    400020: sEscapeSharkNoseTipJnt
+    400022: sEscapeSharkRightFinJnt
+    400024: sEscapeSharkRightFinTipJnt
+    400026: sEscapeSharkRootJnt
+    400028: sEscapeSharkShouldersJnt
+    400030: sEscapeSharkTail1Jnt
+    400032: sEscapeSharkTail2Jnt
+    400034: sEscapeSharkTail3Jnt
+    400036: sEscapeSharkTail4Jnt
+    400038: PA_Shark
+    400040: PA_SharkBodyJnt
+    400042: PA_SharkHeadJnt
+    400044: PA_SharkJawJnt
+    400046: PA_SharkJawTipJnt
+    400048: PA_SharkLeftFinJnt
+    400050: PA_SharkLeftFinTipJnt
+    400052: PA_SharkNoseJnt
+    400054: PA_SharkNoseTipJnt
+    400056: PA_SharkRightFinJnt
+    400058: PA_SharkRightFinTipJnt
+    400060: PA_SharkRootJnt
+    400062: PA_SharkShouldersJnt
+    400064: PA_SharkTail1Jnt
+    400066: PA_SharkTail2Jnt
+    400068: PA_SharkTail3Jnt
+    400070: PA_SharkTail4Jnt
+    4300000: sEscapeSharkHigh
+    4300002: PA_Shark
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: sEscapeSharkHigh
+    13700002: PA_Shark
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 0e813baa34e94ec43b443bcb47cd49cc,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 

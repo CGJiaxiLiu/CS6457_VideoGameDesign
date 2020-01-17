@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8904880804515065345
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8907891555050282879}
+  - component: {fileID: 8792289165265205435}
+  m_Layer: 0
+  m_Name: AudioEventManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8907891555050282879
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8904880804515065345}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8792289165265205435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8904880804515065345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83dca873f7674fd0bcec61d2a1e04f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventSound3DPrefab: {fileID: 114791402448356372, guid: ed1277a7e52294c6e9a9760e1ad8fd71,
+    type: 3}
+  boxAudio:
+  - {fileID: 8300000, guid: f55e7297b8ca7430cb3676367d35b2ad, type: 3}
+  - {fileID: 8300000, guid: 77929dc4c92444f789176181379c25b2, type: 3}
+  - {fileID: 8300000, guid: 1be55a3d189a54e7190521a9e2398061, type: 3}
+  - {fileID: 8300000, guid: 3b88b8446ff38435db98f2974e4495e3, type: 3}
+  - {fileID: 8300000, guid: 7d75b6132f9b7425abdb6c9043f888dd, type: 3}
+  - {fileID: 8300000, guid: 96f661cc8cbb24399bb96ff9e1bf0920, type: 3}
+  - {fileID: 8300000, guid: edc63164b8e2b4a608930be7c2656c2e, type: 3}
+  playerLandsAudio: {fileID: 8300000, guid: e445718c60bf14a97b44ca1388d6accf, type: 3}
+  explosionAudio: {fileID: 8300000, guid: 9073e410d62374ce7bc54c3dc8b2ecc3, type: 3}
+  deathAudio: {fileID: 8300000, guid: 11ee93abd74bf4ff782ce9cdadb784cb, type: 3}
+  bombBounceAudio: {fileID: 8300000, guid: efefdc1777d7a4f17aee435d812aaea3, type: 3}
+  jumpAudio: {fileID: 8300000, guid: e07ef291ae1e145daa1125aeea9d6dca, type: 3}
+  gruntAudio: {fileID: 8300000, guid: 7f93a84d54a6a4236b1c452a814eb524, type: 3}
+  punchAudio: {fileID: 8300000, guid: e0b7d6d0188f84f17bbd76c316c35e23, type: 3}
