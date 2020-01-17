@@ -1,7 +1,3 @@
-Nishit Undale
-nundale3@gatech.edu
-nundale3
-
 No special installation requirements necessary. All necessary components are included.
 
 Instructions:
@@ -99,11 +95,12 @@ Polish:
  - All seams hidden to the player's eye. 
  
 Development Team and Roles:
- - Jeevitesh Juneja:
- - Jiaxi Liu:
- - Junyu Hu:
- - Jianan Le:
+ - Jeevitesh Juneja: Shark and Fish AI, level design, puzzle design
+ - Jiaxi Liu: Inventory system, weapon using logic and animation, UI for tutorial system and interaction, UI and scene polishing
+ - Junyu Hu: Character control script and animation, Swimming logic, level design
+ - Jianan Le: Water effect, animations of character, fish and sharks, playtesting and fine tuning the game, building scene layout
  - Nishit Undale: Sound design, sound effects, UI implementation, scene transition scripting.
+
 
 
 Start Scene: Title Screen
